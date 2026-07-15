@@ -1,19 +1,20 @@
-## Hello World! 👋
+# Cybersecurity | AI | Technology
 
-I love cybersecurity, AI, and tech.
+## About Me
 
-Welcome to my GitHub ✨
-<!--
-**jwucyber/jwucyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create productivity tools that help organizations work more effectively.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ... some fun stuff
-- 🌱 I’m currently learning ... more cyberscurity and AI 
-- 👯 I’m looking to collaborate on ... AI reserach
-- 🤔 I’m looking for help with ... 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I love lock picking
--->
+I am developing applications that provide value to end users in education, knowledge awareness, and health contexts.
+
+## Certifications
+
+- CompTIA Security+
+- IBM Cybersecurity Analyst Certificate
+- Google Cybersecurity Professional Certificate
+- Anthropic Fundamentals Certificate
+
+## Personal Interests
+
+Outside of technology, I enjoy fitness, learning, and lockpicking.
