@@ -8,12 +8,16 @@ I create productivity tools that help organizations work more effectively.
 
 I am developing applications that provide value to end users in education, knowledge awareness, and health contexts.
 
-## Certifications
+## Licenses & Certifications
 
 - CompTIA Security+
 - IBM Cybersecurity Analyst Certificate
 - Google Cybersecurity Professional Certificate
-- Anthropic Fundamentals Certificate
+- Anthropic Certificate of Completion: Al Fluency Framework & Foundations
+- O'Reilly Certificate of Completion: AI-Enabled Programming
+- O'Reilly Certificate of Completion: Ethical Hacking Fundamentals
+- O'Reilly Certificate of Completion: Packet Analysis Essentials
+
 
 ## Personal Interests
 
